@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "AOV1R"]
+	path = AOV1R
+	url = https://github.com/cran/AOV1R
+	shallow = true
+	registered = true
+[submodule "gfilogisreg"]
+	path = gfilogisreg
+	url = https://github.com/cran/gfilogisreg
+	shallow = true
+	registered = true
+[submodule "shinyDatetimePickers"]
+	path = shinyDatetimePickers
+	url = https://github.com/cran/shinyDatetimePickers
+	shallow = true
+	registered = true
