@@ -8,6 +8,11 @@
 	url = https://github.com/cran/AOV1R
 	shallow = true
 	registered = true
+[submodule "cascadeSelect"]
+	path = cascadeSelect
+	url = https://github.com/cran/cascadeSelect
+	shallow = true
+	registered = true
 [submodule "gfilogisreg"]
 	path = gfilogisreg
 	url = https://github.com/cran/gfilogisreg
