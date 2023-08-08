@@ -8,6 +8,3 @@
 [submodule "gfilogisreg"]
 	path = gfilogisreg
 	url = https://github.com/cran/gfilogisreg
-[submodule "shinyDatetimePickers"]
-	path = shinyDatetimePickers
-	url = https://github.com/cran/shinyDatetimePickers
