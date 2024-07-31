@@ -5,6 +5,3 @@
 [submodule "AOV1R"]
 	path = AOV1R
 	url = https://github.com/cran/AOV1R
-[submodule "gfilogisreg"]
-	path = gfilogisreg
-	url = https://github.com/cran/gfilogisreg
